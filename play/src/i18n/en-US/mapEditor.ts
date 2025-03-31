@@ -42,7 +42,7 @@ const mapEditor: BaseTranslation = {
             jitsiUrl: "Video Call URL",
             jitsiUrlPlaceholder: "meet.jit.si",
             roomNamePlaceholder: "Room Name",
-            defaultButtonLabel: "Open Video Call",
+            defaultButtonLabel: "Join Video Call",
             audioMutedLabel: "Muted by default",
             moreOptionsLabel: "More Options",
             trigger: "Open trigger",
